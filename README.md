@@ -12,13 +12,11 @@
 
 ## About me 👦 <br>
 
-
-
 - 📌 I'm from Porto Alegre/RS - Brasil
 
 - 📚 I'm studying for a bachelor's degree in computer engineering.
 
-- 👨‍💻 I'm currently working as a Node.js Developer in Compass.UOL
+- 👨‍💻 I'm working as a Node.js Developer at Compass.UOL
 
 - 📧 You can reach me in my [LinkedIn](www.linkedin.com/in/daguiar8)
 
@@ -26,8 +24,8 @@
 
 <div align="center">
   <a href="https://github.com/DAguiar08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAguiar08&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daguiar08&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DAguiar08&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daguiar08&layout=compact&langs_count=7&theme=radical"/>
     </a>
 </div>
 
